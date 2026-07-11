@@ -1,0 +1,10 @@
+node_modules/
+compile.html
+pnpm-lock.yaml
+pnpm-workspace.yaml
+assets/people-source.png
+assets/target-people.png
+assets/target-qiniandian.png
+assets/target-relief.png
+scripts/compile-targets.mjs
+scripts/prepare_assets.py
