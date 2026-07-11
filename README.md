@@ -1,5 +1,9 @@
 # Tiantan WebAR Samples
 
+Published site: https://hhzzzzzzzzzzzz.github.io/tiantan-webar/
+
+![Mobile QR code](./assets/tiantan-webar-qr.png)
+
 This static site recognizes three spreads from `0511合稿.pdf`:
 
 - Page 18: a lightweight Qinian Hall model rises from the site plan.
