@@ -1,18 +1,18 @@
-# Tiantan WebAR Samples
+# Tiantan WebAR Scene Samples
 
 Published site: https://hhzzzzzzzzzzzz.github.io/tiantan-webar/
 
 ![Mobile QR code](./assets/tiantan-webar-qr.png)
 
-This static site recognizes three spreads from `0511合稿.pdf`:
+This static WebAR site recognizes three spreads from the Tiantan book:
 
-- Page 18: a lightweight Qinian Hall model rises from the site plan.
-- Page 20: the ancient-tree spread becomes a shallow geometric relief.
-- Page 27: historical citizen illustrations separate into far, middle, and near planes.
+- Page 6: a rotating Qinian Hall scene with a three-tier altar, colonnade, tree line, star rings, and path.
+- Page 22: a layered poster scene with four image cards rising from the printed spread.
+- Page 27: a living street scene where people, stalls, and city fragments occupy different depths and move independently.
 
-Open the published GitHub Pages URL on a phone and choose `启动相机 AR`. Camera access requires HTTPS. Point the camera at a complete page with even light and keep the page filling most of the frame.
+Open the published GitHub Pages URL on a phone and choose `Start Camera AR`. Camera access requires HTTPS. Point the camera at a complete page with even light and keep the page filling most of the frame.
 
-For desktop review, choose `查看效果预览`; no camera is required.
+Choose `Preview Scene` on desktop to review the composition without a camera.
 
 ## Local preview
 

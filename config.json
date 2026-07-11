@@ -1,21 +1,21 @@
 {
-  "title": "天坛时空志 WebAR 样片",
+  "title": "天坛 AR 场景版",
   "trackingData": "./assets/targets.mind",
   "targets": [
     {
       "index": 0,
-      "page": 18,
-      "effect": "祈年殿轻量模型"
+      "page": 6,
+      "effect": "祈年殿完整环境模型"
     },
     {
       "index": 1,
-      "page": 20,
-      "effect": "古树浅浮雕"
+      "page": 22,
+      "effect": "共享古今海报立体场"
     },
     {
       "index": 2,
       "page": 27,
-      "effect": "平面人物三层景深"
+      "effect": "市井生活动态场景"
     }
   ]
 }
